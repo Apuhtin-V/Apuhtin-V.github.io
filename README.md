@@ -26,3 +26,5 @@
 [урок 11] - должны быть Сниппеты
 
 [урок 12](https://apuhtin-v.github.io/lesson_12/) - работа с репозиторием на github 
+
+[урок 13](https://apuhtin-v.github.io/lesson_13/) - Адаптивная верстка
