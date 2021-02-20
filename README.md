@@ -28,3 +28,5 @@
 [урок 12](https://apuhtin-v.github.io/lesson_12/) - работа с репозиторием на github 
 
 [урок 13](https://apuhtin-v.github.io/lesson_13/) - Адаптивная верстка
+
+[урок 14](https://apuhtin-v.github.io/lesson_14/) - Подготовка файлов. Верстка шапки сайта.
