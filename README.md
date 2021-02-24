@@ -30,3 +30,5 @@
 [урок 13](https://apuhtin-v.github.io/lesson_13/) - Адаптивная верстка
 
 [урок 14](https://apuhtin-v.github.io/lesson_14/) - Подготовка файлов. Верстка шапки сайта.
+
+[урок 14.2](https://apuhtin-v.github.io/lesson_14.2/) - работа с шрифтами
