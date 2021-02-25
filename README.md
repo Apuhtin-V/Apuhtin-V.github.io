@@ -32,3 +32,5 @@
 [урок 14](https://apuhtin-v.github.io/lesson_14/) - Подготовка файлов. Верстка шапки сайта.
 
 [урок 14.2](https://apuhtin-v.github.io/lesson_14.2/) - работа с шрифтами
+
+[урок 15](https://apuhtin-v.github.io/lesson_15/) - Подключение шрифтов. Верстка первого экрана.
