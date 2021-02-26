@@ -34,3 +34,5 @@
 [урок 14.2](https://apuhtin-v.github.io/lesson_14.2/) - работа с шрифтами
 
 [урок 15](https://apuhtin-v.github.io/lesson_15/) - Подключение шрифтов. Верстка первого экрана.
+
+[урок 15.2](https://apuhtin-v.github.io/lesson_15.2/) - Псевдоклассы и псевдоэлементы.
